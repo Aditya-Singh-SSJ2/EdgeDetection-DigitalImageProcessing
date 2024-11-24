@@ -1,7 +1,7 @@
 # **Edge Detection in Digital Image Processing**  
 
 Welcome to the repository accompanying the video tutorial on *Edge Detection in Digital Image Processing*! This repository contains Python implementations of various edge detection techniques, providing a comprehensive toolkit for anyone looking to explore and experiment with edge detection in images.  
-Video: 
+Video: https://youtu.be/p6TcW5pXg-Q
 
 ---
 
